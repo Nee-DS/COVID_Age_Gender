@@ -1,4 +1,2 @@
-# COVID_death_average_age_through_May_june_July
-Has the average death due to COVID19 changed through May June and July in US?
+#The mortality rate of different age groups in the states of the USA due to COVID19 from May to July has changed?
 
-The state analysis 
